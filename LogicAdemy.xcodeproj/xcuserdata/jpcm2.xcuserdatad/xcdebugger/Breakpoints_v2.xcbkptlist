@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84D9BADD-8D2A-4A36-BF36-2887720906CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A131BB16-99FB-4F25-B6AE-7D6A903B4E8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LogicAdemy/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A131BB16-99FB-4F25-B6AE-7D6A903B4E8B - 178d016248b31505"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LogicAdemy.AppDelegate.__allocating_init() -&gt; LogicAdemy.AppDelegate"
+                  moduleName = "LogicAdemy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jpcm2/Desktop/ProjetosSwift/LogicAdemy/LogicAdemy/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "A131BB16-99FB-4F25-B6AE-7D6A903B4E8B - c18f64610ed36cd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LogicAdemy.AppDelegate.init() -&gt; LogicAdemy.AppDelegate"
+                  moduleName = "LogicAdemy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jpcm2/Desktop/ProjetosSwift/LogicAdemy/LogicAdemy/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "A131BB16-99FB-4F25-B6AE-7D6A903B4E8B - 6d8c93df43fa8951"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LogicAdemy.AppDelegate.__deallocating_deinit"
+                  moduleName = "LogicAdemy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jpcm2/Desktop/ProjetosSwift/LogicAdemy/LogicAdemy/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A131BB16-99FB-4F25-B6AE-7D6A903B4E8B - 62754219b786de4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "LogicAdemy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jpcm2/Desktop/ProjetosSwift/LogicAdemy/LogicAdemy/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAC055C2-CA76-4121-A01F-FB208AAD6BB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LogicAdemy/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
